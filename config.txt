@@ -1,0 +1,6 @@
+project_path = 'C:\Itamar\ZoomInCloud'
+general_sln_dirs = ['Commons', 'Utils']
+team_sln_dirs = ['Video']
+projects_to_draw = ['ImagesCommon']
+
+					 
